@@ -2,7 +2,9 @@ Tools, scripts and solutions for competitive programming.
 
 
 
-# Events results
+
+
+# Past events
 
 I initiated this from memory in 2020. So I probably missed some events.
 
@@ -19,7 +21,7 @@ I initiated this from memory in 2020. So I probably missed some events.
 | AI Battle       | Java     | [CodinGame: CodeBusters](https://www.codingame.com/contests/codebusters/leaderboard/global?column=keyword&value=mattrero) | June 2016      | 892 / 1979 *  |
 | Problem solving | Java     | [Société Générale Best Developer](https://www.isograd.com/EN/contestsolution.php?contest_id=20&que_str_id=&reg_typ_id=2) | October 2016   | 2 / ~500      |
 | AI Battle       | Python   | [CodinGame: Ghost in the Cell](https://www.codingame.com/contests/ghost-in-the-cell/leaderboard/global?column=keyword&value=mattrero) | February 2017  | 31 / 3508     |
-| AI Battle       | Java     | [CodinGame: Coders of the Caribbean](https://www.codingame.com/contests/coders-of-the-caribbean/leaderboard/global?column=keyword&value=mattrero) | April 2017     | 237 / 3624 *  |
+| AI Battle       | Java     | [CodinGame: Coders of the Caribbean](https://www.codingame.com/contests/coders-of-the-caribbean/leaderboard/global?column=keyword&value=mattrero) | April 2017     | 237 / 3624    |
 | AI Battle       | Java     | [CodinGame: Code4Life](https://www.codingame.com/contests/code4life/leaderboard/global?column=keyword&value=mattrero) | May 2017       | 1386 / 2366 * |
 | Problem solving | Python   | [BattleDev](https://www.blogdumoderateur.com/resultats-battledev-novembre-2018/) | November 2018  | 56 / 3009     |
 | Problem solving | Python   | BattleDev                                                    | March 2019     | ???           |
